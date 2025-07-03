@@ -30,7 +30,7 @@ The GUI uses DirectX hooking to activate features in-game.
 
 ---
 
-## 🚀 How to Use
+## 🚀 How to Use / [Tutorial ( Click here! )](https://github.com/groriz11/TLOU2-BetaTest-ModMenu/blob/main/HowToInject.md)
 
 1. 🛠️ Compile the DLL with Visual Studio (recommended).  
 2. ⚙️ Inject the compiled DLL (`dxgi.dll`) into the *The Last of Us Part II* process.  
