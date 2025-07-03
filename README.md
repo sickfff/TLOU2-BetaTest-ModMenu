@@ -58,8 +58,7 @@ Use at your own risk. Not for commercial distribution.
 
 ## 🙏 Credits
 
-Created and maintained by **Gabriel Roriz Silva**  
-[https://github.com/groriz11](https://github.com/groriz11)  
+Created and maintained by [Gabriel Roriz Silva](https://github.com/groriz11)  
 
 Thanks to the open-source and modding communities for their inspiration and support!
 
