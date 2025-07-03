@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+C:\Users\aluno\Desktop\Tlou2ModMenu\dllmain.cpp(135,1): error C1010: fim de arquivo inesperado durante procura por cabeçalho pré-compilado. Você esqueceu de adicionar '#include "pch.h"' à sua fonte?
+  mod_menu.cpp
+C:\Users\aluno\Desktop\Tlou2ModMenu\mod_menu.cpp(93,1): error C1010: fim de arquivo inesperado durante procura por cabeçalho pré-compilado. Você esqueceu de adicionar '#include "pch.h"' à sua fonte?
+  ui.cpp
+C:\Users\aluno\source\repos\Tlou2ModMenu\Tlou2ModMenu\ui.cpp(269,1): error C1010: fim de arquivo inesperado durante procura por cabeçalho pré-compilado. Você esqueceu de adicionar '#include "pch.h"' à sua fonte?
+  Gerando Código...
