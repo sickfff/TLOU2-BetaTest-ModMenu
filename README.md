@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://i.pinimg.com/736x/44/ae/75/44ae756a29b12c6c8f771c280b328933.jpg" alt="The Last of Us Part II Banner" width="600"/>
 </p>
----
 
 ## 📖 About
 
